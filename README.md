@@ -1,9 +1,14 @@
 # Waste Classification API
-- A keras model to classify waste items as per the color of bin they should go to. 
+- A Machine Learning model to classify waste items as per the color of bin they should go to. 
 - Model trained on [Teachable Machine](https://teachablemachine.withgoogle.com)
 
-## Features
-- Classify the waste into perticular bin from Black, Blue, Green, Trash, Hazardous
+## Data Science
+- 3k images were used to train a Model
+
+## API
+- Starlette
+- Docker
+
 
 ## How API works
 1. Home
